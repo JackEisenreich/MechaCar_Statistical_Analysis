@@ -17,7 +17,7 @@ In this analysis we looked at summary data to determine whether manufacturing pr
 
 ## T-Tests on Suspension Coils
 
-![Total Summary](https://user-images.githubusercontent.com/95661553/162640765-ca1a3722-01e5-43db-bfff-4f2cfffeb339.png)
+![Aggregate t-test](https://user-images.githubusercontent.com/95661553/162641648-47bca2dc-6294-4861-b0a4-f24f2abf4fb9.png)
 
 In the total summary, we had a p-value of .0628 so at a 5% confidence level we could not reject the null hypothesis that the true mean is equal to 1500.
 
